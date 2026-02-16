@@ -1,0 +1,41 @@
+# 📘 Task 1: Exploring and Visualizing the Iris Dataset
+
+## 📌 Objective
+
+The objective of this task is to understand how to load, inspect, summarize, and visualize a dataset using Python libraries such as **pandas**, **matplotlib**, and **seaborn**.
+
+## 📊 Dataset
+
+* **Iris Dataset**
+* Contains measurements of iris flowers: sepal length, sepal width, petal length, petal width, and species.
+
+## 🛠️ Approach
+
+1. Loaded the dataset using **pandas**.
+2. Inspected the dataset structure using:
+
+   * `.shape`
+   * `.columns`
+   * `.head()`
+3. Performed exploratory data analysis (EDA).
+4. Created visualizations:
+
+   * **Scatter plot** to analyze relationships between variables.
+   * **Histogram** to study feature distributions.
+   * **Box plot** to detect outliers and understand data spread.
+
+## 📈 Visualizations
+
+* Scatter plots reveal clear separability between flower species.
+* Histograms show normal and skewed distributions.
+* Box plots help identify potential outliers.
+
+## 🔍 Key Insights
+
+* Petal features are more informative than sepal features.
+* Setosa species is clearly distinguishable from others.
+
+## ✅ Conclusion
+
+This task helped build a strong foundation in data loading, inspection, and visualization, which is essential for further machine learning tasks.
+
